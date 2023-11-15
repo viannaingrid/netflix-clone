@@ -16,6 +16,11 @@ body {
     color: white;
 }
 
+.nome {
+    text-decoration: none;
+    color: white;
+}
+
 .barra-de-navegacao{
     margin-left: 40px;
 }
