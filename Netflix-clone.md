@@ -7,3 +7,6 @@ Utilizado a IDE VScode juntamente com as linguagens de programação:
 - HTML
 - CSS
 - JavaScript com Bootstrap
+
+
+
